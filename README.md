@@ -1,25 +1,5 @@
-Berikut README **yang disesuaikan langsung dengan kode `package org.example.project` yang kamu kirim**, dan tetap fokus pada spesifikasi tugas.
 
-Bisa langsung copy sebagai `README.md`.
-
----
-
-````markdown
 # News Feed Simulator
-
-Aplikasi simulasi News Feed menggunakan Kotlin + Jetpack Compose dengan penerapan:
-- Flow
-- StateFlow
-- Operator Flow (filter & map)
-- Coroutine
-
-Package:
-```kotlin
-package org.example.project
-````
-
----
-
 ## Identitas
 
 Nama  : Muhammad Fadhilah Akbar

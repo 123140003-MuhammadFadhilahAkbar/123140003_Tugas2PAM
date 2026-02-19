@@ -98,5 +98,5 @@ scope.launch {
 
 ## Screenshot Aplikasi
 
-
+<img width="575" height="1280" alt="Image" src="https://github.com/user-attachments/assets/63ac73f0-03fe-46de-b159-52cfe8b74ba1" />
 
